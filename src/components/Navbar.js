@@ -14,7 +14,7 @@ function Navbar() {
                 <div className="flex justify-start">
                   <img
                     className="h-8 w-8"
-                    src="https://cdn-icons.flaticon.com/png/512/1940/premium/1940795.png?token=exp=1638067026~hmac=47df0259c1f5681a01e7de9ad3ff5be1"
+                    src="https://cdn2.iconfinder.com/data/icons/household-things/64/house_shelf-256.png"
                     alt="book-img"
                   />
                   <Link to='/'><p className="text-white px-3 py-2 rounded-md text-sm font-medium">MyBooks</p></Link>
